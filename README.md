@@ -1,2 +1,0 @@
-# dotween-upm
-Dotween
